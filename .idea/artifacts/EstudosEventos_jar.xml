@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EstudosEventos:jar">
+    <output-path>$USER_HOME$/OneDrive/Área de Trabalho/ServerPlugins/plugins</output-path>
+    <root id="archive" name="EstudosEventos.jar">
+      <element id="module-output" name="EstudosEventos" />
+    </root>
+  </artifact>
+</component>
