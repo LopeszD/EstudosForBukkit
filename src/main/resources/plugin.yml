@@ -1,0 +1,16 @@
+name: Eventos
+version: '${project.version}'
+main: me.lopes.Eventos
+authors: [ LopeszD ]
+commands:
+  ajuda:
+    description: Para ajudar o Player
+    aliases: duvida
+  daritem:
+    description: DarItem para o player
+    aliases: giveitem
+  inv:
+    description: Abrir Inventario
+    aliases: abririnv
+  entidade:
+    description: Spawn de Entidades

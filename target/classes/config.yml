@@ -1,0 +1,19 @@
+Mensagem:
+  ligado: "&aPlugin Ligado com sucesso"
+  desligado: "&4Plugin desligado com sucesso"
+  quebrado: "&aVocê quebrou o bloco e ganhou..."
+Motd:
+  mensagem: "&aVenha Jogar me nosso servidor"
+  whit: "&4Servidor em manutenção!"
+
+Lore:
+  - ''
+  - '&cLine 2'
+  - '&4Line 3'
+  - '&5Line 4'
+  - ''
+
+Tamanho: 3
+
+ActionBar: "&aAction Bar Teste"
+MensagemAutomatica: "&cOlá jogador"
