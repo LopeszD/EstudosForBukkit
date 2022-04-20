@@ -13,6 +13,7 @@ public class EventTest implements Listener {
 
         if (!Bukkit.hasWhitelist()) e.setMotd(getInstance().getConfig().getString("Motd.mensagem").replace("&" , "§"));
         else e.setMotd(getInstance().getConfig().getString("Motd.whit").replace("&" , "§"));
+        System.out.println("Alguém está tentando entrar");
 
     }
 
